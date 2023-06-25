@@ -1,0 +1,16 @@
+.login_div1, .login_div1{
+    background-color: white;
+    float: none;
+    border-radius: 15px;
+}
+body{
+    background-color: aquamarine;
+}
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
